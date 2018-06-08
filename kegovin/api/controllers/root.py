@@ -2,8 +2,8 @@
 from pecan import rest
 from wsme import types as wtypes
 
-from webdemo.api.controllers.v1 import controller as v1_controller
-from webdemo.api import expose
+from kegovin.api.controllers.v1 import controller as v1_controller
+from kegovin.api import expose
 
 
 class RootController(rest.RestController):

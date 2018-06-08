@@ -1,7 +1,7 @@
 
 from wsgiref import simple_server
 
-from webdemo.api import app
+from kegovin.api import app
 
 
 def main():

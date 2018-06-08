@@ -1,7 +1,7 @@
 
 from pecan import hooks
 
-from webdemo.db import api as db_api
+from kegovin.db import api as db_api
 
 
 class DBHook(hooks.PecanHook):

@@ -1,6 +1,6 @@
 
 app = {
-    'root': 'webdemo.api.controllers.root.RootController',
-    'modules': ['webdemo.api'],
+    'root': 'kegovin.api.controllers.root.RootController',
+    'modules': ['kegovin.api'],
     'debug': False,
 }

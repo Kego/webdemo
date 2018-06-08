@@ -5,7 +5,7 @@ from pecan import request
 from pecan import rest
 from wsme import types as wtypes
 
-from webdemo.api import expose
+from kegovin.api import expose
 
 
 class User(wtypes.Base):

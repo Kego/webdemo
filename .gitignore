@@ -59,3 +59,6 @@ target/
 # misc files
 AUTHORS
 ChangeLog
+
+#pycharm
+.idea/

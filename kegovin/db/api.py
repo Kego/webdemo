@@ -3,7 +3,7 @@ from sqlalchemy import create_engine
 import sqlalchemy.orm
 from sqlalchemy.orm import exc
 
-from webdemo.db import models as db_models
+from kegovin.db import models as db_models
 
 
 _ENGINE = None

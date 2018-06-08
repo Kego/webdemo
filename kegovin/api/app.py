@@ -1,8 +1,8 @@
 
 import pecan
 
-from webdemo.api import config as api_config
-from webdemo.api import hooks
+from kegovin.api import config as api_config
+from kegovin.api import hooks
 
 
 def get_pecan_config():
